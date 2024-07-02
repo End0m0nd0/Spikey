@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51327e4bcfe6b58438ebe3185a93d314
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Spikes: {instanceID: 0}
+  - Spike_prefab: {fileID: 7938694048662927159, guid: 898883ff3e843ba4d9eb23112a48c35a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 951157bf01a309447ae50b88c9af41d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montserrat
+  fontNames:
+  - Montserrat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4f8b6a05aea03446bd3de42da6215f9, type: 3}
+  - {fileID: 12800000, guid: 0208b8416676dd94ebed783cc117ae7a, type: 3}
+  - {fileID: 12800000, guid: b247dc5122b1e6145b71756d70a4825f, type: 3}
+  - {fileID: 12800000, guid: 0331601315bcc314794d899cdfaa9171, type: 3}
+  - {fileID: 12800000, guid: aa5435c3005e3774db778d3e3196230d, type: 3}
+  - {fileID: 12800000, guid: f1a097d3f33291d4f87cd08104bdc215, type: 3}
+  - {fileID: 12800000, guid: 3f2f90946fbd17842a69db21d0026528, type: 3}
+  - {fileID: 12800000, guid: 2242cff4b84ae7b478dc567168fd50b8, type: 3}
+  - {fileID: 12800000, guid: 2cabf70533d79244b9acbec0640891f4, type: 3}
+  - {fileID: 12800000, guid: 109d08d6eaf53a346b3092707217d9c9, type: 3}
+  - {fileID: 12800000, guid: db592907df917dd4197638d658ea0fd6, type: 3}
+  - {fileID: 12800000, guid: 9eaa0648288a36143a8849ed725668b8, type: 3}
+  - {fileID: 12800000, guid: 95719019da278994e9342cfa2a539c02, type: 3}
+  - {fileID: 12800000, guid: 4b6e2d49e9739c141b4c80e4092f3650, type: 3}
+  - {fileID: 12800000, guid: fe067599353434b4b94458b29d560440, type: 3}
+  - {fileID: 12800000, guid: cb4b4e3aece6648419d65ef2abe45896, type: 3}
+  - {fileID: 12800000, guid: f2ee59eaf0304db448c982b660e5cd65, type: 3}
+  - {fileID: 12800000, guid: 7077292bf795ea341a9a3fa61d35df4e, type: 3}
+  - {fileID: 12800000, guid: 905fb44b569d61542baf213a06364357, type: 3}
+  - {fileID: 12800000, guid: 404ad62c90bb9e54e97cde3e5ad11751, type: 3}
+  - {fileID: 12800000, guid: d3129c7c6acf002418eca3b7d4104c78, type: 3}
+  - {fileID: 12800000, guid: d764b33d6755f7a448d723da8e12c83e, type: 3}
+  - {fileID: 12800000, guid: 13c7458d747c5654c8dbc448cf24ba35, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
