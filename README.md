@@ -9,17 +9,16 @@
 
 ## 🎥 Gameplay Showcase
 
-[![Spikey Gameplay](https://img.youtube.com/vi/TWOJ_LINK_DO_YOUTUBE/hqdefault.jpg)](https://www.youtube.com/watch?v=TWOJ_LINK_DO_YOUTUBE)<br>
+[![Spikey Gameplay](https://img.youtube.com/vi/5ircrNVKBZc/hqdefault.jpg)](https://www.youtube.com/watch?v=5ircrNVKBZc)<br>
 *(Click the image above to watch the gameplay video on YouTube)*
 
 ## 📸 Screenshots
 
-<!-- TODO: replace the placeholders with real screenshots, e.g. docs/screenshots/menu.png -->
 | Main Menu | Gameplay |
 | :---: | :---: |
-| ![Main Menu](https://placehold.co/640x360?text=Main+Menu) | ![Gameplay](https://placehold.co/640x360?text=Gameplay) |
+| ![Main Menu](ScreenShots/MainMenu.png) | ![Gameplay](ScreenShots/Gameplay.png) |
 | **Power-Ups** | **Skins & Backgrounds** |
-| ![Power-Ups](https://placehold.co/640x360?text=Power-Ups) | ![Skins](https://placehold.co/640x360?text=Skins+%26+Backgrounds) |
+| ![Power-Ups](ScreenShots/PowerUps.png) | ![Skins & Backgrounds](ScreenShots/SkinsAndBackground.png) |
 
 ## 💡 About the Project
 
